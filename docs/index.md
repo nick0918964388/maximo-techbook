@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# IBM Maximo 培訓手冊
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+這是一個為新人快速學習Maximo的基礎知識的工具書 , 內容包括系統介紹 , 商務流程 , 功能 與技術開發相關議題 , 你可以在這邊學習到
 
-## Commands
+* Maximo產品的相關知識
+* 各模組的功能說明
+* 系統配置 , 畫面配置
+* 系統開發
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+等功能。
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+###
