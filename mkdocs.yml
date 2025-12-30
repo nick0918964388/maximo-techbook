@@ -1,0 +1,4 @@
+site_name: Maximo Technology book
+nav:
+  - Home: index.md
+theme: mkdocs
